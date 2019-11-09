@@ -1,0 +1,22 @@
+rest-api
+
+API : APPLICATION PROGRAMMING INTERFACE
+api (application programming interface)
+adalah sekumpulan fungsi, subroutine, protokol komunikasi, atau tolls untuk membuat perangkat lunak.
+
+interface adalah bagian yang sama antara dua atau lebih komponen yang terpisah pada sebuah sistem komputer.
+
+API
+
+- Antarmuka yang berupa kumpulan fungsi yang dapat dipanggil atau dijalankan oleh program lain
+
+- penerapannya sangan luas
+    -bahasa pemrograman
+    -library & framework
+    -system operasi
+    -web api / web service
+
+api adalah sebuah cara untuk menghubungkan dua buah program yang berbeda.
+
+web api / web service
+sebuah sistem perangkat luna yang dibuat untuk mendukung interoperabilitas / interaksi antar 2 aplikasi yang berbeda melalui jaringan.
