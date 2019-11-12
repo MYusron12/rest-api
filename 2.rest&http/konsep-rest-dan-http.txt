@@ -1,0 +1,67 @@
+REST API
+gaya arsitektural perangkat lunak yang didalamnya mendefinisikan aturan aturan untuk membuat web service.
+
+
+
+kenapa ada API
+
+
+ILUSTRASI
+api adalah penghubung
+rest api adalah aturannya
+ada request & response
+data yang dikirim diterima berupa json
+
+
+rest api 
+-representasional state transfer
+-gaya perancangan / architectual style
+-stateless
+-by roy fielding di desertasi phd nya
+-hampir selalu menggunakan http
+-memungkinkan interaksi antar mesin
+
+
+http 
+hypertext transfer portocol
+
+url
+uniform resource locator
+
+url
+-alamat dari sebuah resource yang dapat diakses di internet
+-contoh: 
+    - https:www.facebook.com/index.php
+
+
+kode status
+200 success
+404 not found
+500 server error
+
+
+http method
+get
+    mengambil data
+post
+    menambah data
+put
+    mengubah data
+delete
+    menghapus data
+
+
+stateless
+-setiap request http dilakukan secara terisolasi
+-server tidak menyimpan stete apapun mengenai sesi dari client
+-setiap request dari client harus berisi semua informasi yang dibutuhkan server, termasuk informasi otentifikasi.
+
+
+
+
+
+
+restful api
+-menngunakan http method yang benar
+-url / endpointsnya menggunakan kata benda, bukan kata kerja.
+-stateless
