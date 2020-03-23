@@ -1,0 +1,14 @@
+[{
+    "nama": "M Yusron",
+    "umur": 27
+},
+{
+    "nama" : "aku",
+    "umur" : 21,
+    "kesukaan" : ["mancing", "ngoding"],
+    "alamat" : "bogor",
+    "mantan pacar" : {
+        "mantan ke 1" : "dia",
+        "mantan ke 2" : "dia juga"
+    }
+}]

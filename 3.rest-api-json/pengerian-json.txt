@@ -1,0 +1,11 @@
+ 
+
+
+ method json pada javascript
+ - JSON.stringify() //mengubah object menjadi json
+ - JSON.parse() //mengubah json menjadi object
+
+ akses json pada javascript
+ - ajax
+    - XMLHttpRequest
+    - JQuery
