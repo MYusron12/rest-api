@@ -1,0 +1,24 @@
+{
+    "cat": [{
+            "nama": "Cat Dasar",
+            "harga": 50000,
+            "ukuran": "50kg",
+            "kemasan": "kaleng",
+            "gambar": "1.png"
+        },
+        {
+            "nama": "Cat Kayu",
+            "harga": 55000,
+            "ukuran": "1kg",
+            "kemasan": "kaleng",
+            "gambar": "2.png"
+        },
+        {
+            "nama": "Cat Tembok",
+            "harga": 100000,
+            "ukuran": "5kg",
+            "kemasan": "kaleng",
+            "gambar": "3.png"
+        }
+    ]
+}
