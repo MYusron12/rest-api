@@ -1,4 +1,14 @@
- 
+JSON: JavaScript Object Notation adalah sebuah file format standar yg menggunakan tulisan yg dapat dibaca oleh manusia untuk pertukaran data, yg didalamnya berisi pasangan antara key & value
+
+JSON:
+- format pertukatan data tekstual yg ringan
+-  sintasnya sangat sederhana dn jelas
+- dapat digunakan pada beragam bahasa pemrograman
+- tiap bahas pemrograman memiliki cara tersendiri untuk berinteraksi dengan JSON
+- dibuat berdasarkan format object pada javascript
+- digunakan juga untuk file konfigurasi
+- tipe file ekstensi .json
+- format json dibuat dan diusulkan oleh douglas crockford  
 
 
  method json pada javascript

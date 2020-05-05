@@ -1,0 +1,29 @@
+public api = sebuah API(REST API) yg dapatdi akses secara publik, yg didalamnya tersedia aturan-aturan untuk developer agar dapat mengakses data.
+
+
+        Third-party developer community
+            |
+            v
+        Backend -> Open API -> Mobile Web   ->Extends customer reach
+        System                 Application  ->Increase Revenue
+                                            ->Stimulate Innovation
+
+
+
+
+
+console.developers.google.com
+developers.facebook.com
+
+Public API
+any-api.com
+github.com/toddmotto/public-apis
+github.com/farizdotid
+
+
+Otentikasi (Auth)
+- Tanpa otentikasi
+- Key / Token
+- OAuth
+- CORS 
+
